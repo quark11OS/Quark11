@@ -1,19 +1,19 @@
 # Quark11 - Lightweight Windows 11
 
-🎯 **A highly customizable, lightweight version of Windows 11**
+ **A highly customizable, lightweight version of Windows 11**
 
 ## Overview
 
-Quark11 provides tools and scripts to optimize and customize Windows 11, removing unnecessary bloatware and telemetry services to create a lean, responsive operating system.
+Quark11 currently has tools and scripts ONLY. a FULL OS will be coming soon.
 
 ## Features
 
-✨ **Core Features:**
-- 🗑️ Remove bloatware and unnecessary apps
-- 🔒 Disable telemetry and tracking services
-- ⚡ Optimize system performance
-- 🎛️ Highly customizable debloat script
-- 📋 Easy-to-use PowerShell scripts
+**Features:**
+- Remove bloatware and unnecessary apps
+-  Disable telemetry and tracking services
+-  Optimize system performance
+-  Highly customizable debloat script
+-  Easy-to-use PowerShell scripts and executables
 
 ## What Gets Removed (Default)
 
@@ -110,7 +110,7 @@ MassGrave.dev provides:
 - Legitimate activation methods
 - Comprehensive documentation
 
-## ⚠️ Important Cautions
+## WARNING:
 
 **Before running this script:**
 
@@ -157,8 +157,8 @@ This software is provided as-is without any warranty. Users are responsible for:
 
 ## Support
 
-For issues, questions, or suggestions:
-- Open an issue on GitHub
+Your help is greatly appreciated! For issues, questions, or suggestions:
+- Open an issue
 - Check existing documentation
 - Review the MassGrave.dev resources
 
