@@ -1,0 +1,46 @@
+{
+  "PackageIdentifier": "quark11OS.Quark11",
+  "PackageVersion": "1.0.0",
+  "DefaultLocale": "en-US",
+  "MetadataVersion": "1.1.0",
+  "Locales": [
+    {
+      "Locale": "en-US",
+      "Publisher": "Quark11",
+      "PublisherUrl": "https://github.com/quark11OS",
+      "PublisherSupportUrl": "https://github.com/quark11OS/Quark11/issues",
+      "PrivacyUrl": "https://github.com/quark11OS/Quark11/blob/main/LICENSE",
+      "Author": "Quark11",
+      "PackageName": "Quark11",
+      "PackageUrl": "https://github.com/quark11OS/Quark11",
+      "License": "Unlicense",
+      "LicenseUrl": "https://raw.githubusercontent.com/quark11OS/Quark11/main/LICENSE",
+      "Copyright": "Quark11",
+      "CopyrightUrl": "https://raw.githubusercontent.com/quark11OS/Quark11/main/LICENSE",
+      "ShortDescription": "A highly customizable, lightweight version of Windows 11.",
+      "Description": "Quark11 is a powerful debloat tool for Windows 11 that removes unnecessary bloatware, disables telemetry services, and optimizes your system for peak performance. Available as both a GUI application and PowerShell script.",
+      "Moniker": "quark11",
+      "Tags": [
+        "windows11",
+        "debloat",
+        "optimization",
+        "utility",
+        "powershell"
+      ],
+      "ReleaseNotesUrl": "https://github.com/quark11OS/Quark11/releases"
+    }
+  ],
+  "Installers": [
+    {
+      "InstallerLocale": "en-US",
+      "Architecture": "x64",
+      "InstallerType": "portable",
+      "InstallerUrl": "https://github.com/quark11OS/Quark11/releases/download/v1.0.0/Quark11-1.0.0-x64-portable.zip",
+      "InstallerSha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "InstallerSwitches": {
+        "Custom": "/NORESTART"
+      },
+      "ReleaseDate": "2026-05-21"
+    }
+  ]
+}
